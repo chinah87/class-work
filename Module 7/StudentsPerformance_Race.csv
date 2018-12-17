@@ -1,0 +1,128 @@
+,group E
+0,"     gender race/ethnicity parental level of education         lunch  \
+32   female        group E             master's degree  free/reduced   
+34     male        group E                some college      standard   
+35     male        group E          associate's degree      standard   
+44   female        group E          associate's degree  free/reduced   
+50     male        group E                some college      standard   
+51     male        group E          associate's degree  free/reduced   
+56   female        group E          associate's degree      standard   
+60     male        group E           bachelor's degree  free/reduced   
+76     male        group E            some high school      standard   
+79   female        group E             master's degree      standard   
+83     male        group E          associate's degree      standard   
+97   female        group E                some college      standard   
+107    male        group E          associate's degree      standard   
+114  female        group E           bachelor's degree      standard   
+124    male        group E                some college      standard   
+132    male        group E                some college  free/reduced   
+137    male        group E                 high school      standard   
+142  female        group E                some college  free/reduced   
+149    male        group E          associate's degree  free/reduced   
+156  female        group E                 high school  free/reduced   
+161  female        group E                some college  free/reduced   
+164  female        group E             master's degree      standard   
+171    male        group E            some high school      standard   
+182  female        group E                 high school      standard   
+186    male        group E                 high school      standard   
+190  female        group E          associate's degree      standard   
+197    male        group E                 high school  free/reduced   
+206    male        group E           bachelor's degree      standard   
+207    male        group E                 high school      standard   
+214    male        group E                 high school      standard   
+..      ...            ...                         ...           ...   
+836    male        group E                 high school      standard   
+845    male        group E             master's degree      standard   
+852  female        group E                some college      standard   
+853    male        group E            some high school      standard   
+861  female        group E             master's degree  free/reduced   
+868    male        group E          associate's degree  free/reduced   
+873    male        group E          associate's degree  free/reduced   
+881  female        group E           bachelor's degree      standard   
+884  female        group E          associate's degree      standard   
+886  female        group E          associate's degree      standard   
+890  female        group E                some college      standard   
+891  female        group E          associate's degree      standard   
+894  female        group E          associate's degree      standard   
+895  female        group E            some high school  free/reduced   
+909    male        group E           bachelor's degree      standard   
+915  female        group E                some college      standard   
+916    male        group E           bachelor's degree      standard   
+925    male        group E            some high school      standard   
+926    male        group E          associate's degree  free/reduced   
+928    male        group E          associate's degree  free/reduced   
+937  female        group E                 high school  free/reduced   
+949  female        group E                 high school  free/reduced   
+950    male        group E                 high school      standard   
+952  female        group E            some high school  free/reduced   
+955    male        group E          associate's degree      standard   
+962  female        group E          associate's degree      standard   
+968  female        group E          associate's degree      standard   
+987    male        group E            some high school      standard   
+990    male        group E                 high school  free/reduced   
+995  female        group E             master's degree      standard   
+
+    test preparation course  math score  reading score  writing score  
+32                     none          56             72             65  
+34                     none          97             87             82  
+35                completed          81             81             79  
+44                     none          50             56             54  
+50                     none          53             55             48  
+51                completed          77             69             68  
+56                completed          82             85             86  
+60                completed          79             74             72  
+76                     none          30             26             22  
+79                     none          62             68             68  
+83                     none          72             64             63  
+97                completed          63             72             70  
+107               completed          66             63             64  
+114               completed          99            100            100  
+124                    none          83             80             73  
+132               completed          87             74             70  
+137                    none          70             55             56  
+142               completed          42             55             54  
+149               completed         100            100             93  
+156               completed          66             74             78  
+161               completed          75             88             85  
+164                    none          81             92             91  
+171                    none          94             88             78  
+182                    none          50             50             47  
+186                    none          80             76             65  
+190                    none          66             65             69  
+197                    none          55             56             51  
+206                    none          82             62             62  
+207               completed          81             80             76  
+214               completed          87             91             81  
+..                      ...         ...            ...            ...  
+836                    none          73             64             57  
+845                    none          90             85             84  
+852                    none          87             85             93  
+853                    none          82             67             61  
+861                    none          81             86             87  
+868               completed          78             74             72  
+873                    none          90             90             82  
+881               completed          71             70             70  
+884                    none          51             51             54  
+886               completed          93            100             95  
+890               completed          86             85             91  
+891                    none          85             92             85  
+894                    none          59             62             69  
+895                    none          32             34             38  
+909               completed          70             64             70  
+915                    none          68             70             66  
+916               completed         100            100            100  
+925               completed          74             64             60  
+926                    none          64             56             52  
+928               completed          46             43             44  
+937                    none          57             58             57  
+949               completed          57             75             73  
+950                    none          94             73             71  
+952                    none          74             74             72  
+955                    none          72             57             62  
+962                    none         100            100            100  
+968                    none          68             76             67  
+987               completed          81             75             76  
+990               completed          86             81             75  
+995               completed          88             99             95  
+
+[140 rows x 8 columns]"
